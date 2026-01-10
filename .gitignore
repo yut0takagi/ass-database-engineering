@@ -1,0 +1,9 @@
+# macOS / editor
+.DS_Store
+
+# SQLite generated DBs
+data/*.sqlite3
+data/*.sqlite
+data/*.db
+
+
